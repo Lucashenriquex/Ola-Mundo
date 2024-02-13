@@ -3,5 +3,5 @@
 
 Repositório criado durante uma aula ao vivo!
 
-Linha adicionada diretamente do site.
+Linha adicionada diretamente no site Github
 
